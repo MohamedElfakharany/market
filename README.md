@@ -21,7 +21,7 @@
 - Setup Favorites,
 - get Profile & Update Profile & Logout,
 
- Onboarding & Register and Login & Home Screen : ⤵️ ⤵️ ⤵️ ⤵️ ⤵️ ⤵️ ⤵️ ⤵️ ⤵️ 
+ Onboarding & Register & Login & Home Screen : ⤵️ ⤵️ ⤵️ ⤵️ ⤵️ ⤵️ ⤵️ ⤵️ ⤵️ 
  ---------------------------------------------------------------
 
 ![Simulator 1](https://user-images.githubusercontent.com/34916493/158419829-b113ebba-f374-4860-b65a-240e9070612c.gif)
